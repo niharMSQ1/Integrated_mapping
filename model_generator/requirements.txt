@@ -1,0 +1,3 @@
+# Only needed to run the model generator (introspect DB → generate app/models.py)
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
